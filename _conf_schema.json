@@ -1,0 +1,8 @@
+{
+    "image_api": {
+        "description": "请输入图片api",
+        "type": "string",
+        "hint": "例如：https://api.example.com/image",
+        "obvious_hint": true
+    }
+}
